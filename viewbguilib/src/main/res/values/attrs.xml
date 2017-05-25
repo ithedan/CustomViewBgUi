@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ButtonBgUi">
+        <attr name="strokeColor" format="color"/>
+        <attr name="selectStrokeColor" format="color"/>
+        <attr name="pressedColor" format="color"/>
+        <attr name="defaultColor" format="color"/>
+        <attr name="isRipple" format="boolean"/>
+        <attr name="parameter" format="float"/>
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="raoundRadius" format="dimension"/>
+        <attr name="topLeftRadius" format="dimension"/>
+        <attr name="topRightRadius" format="dimension"/>
+        <attr name="bottomLeftRadius" format="dimension"/>
+        <attr name="bottomRightRadius" format="dimension"/>
+
+    </declare-styleable>
+
+
+</resources>
